@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "caption": "Juda zo`r lavash",
+    "image": "https://imageproxy.wolt.com/menu/menu-images/61e82d50398d2a14cb913f18/c04bfc38-b33f-11ed-a682-22b942dad985_0m0a0170_edit.jpeg",
+    "price": 20000
+  },
+  {
+    "id": 2,
+    "caption": "Shirin gamburger",
+    "image": "https://s1.eda.ru/StaticContent/Photos/160525131253/160602184657/p_O.jpg",
+    "price": 23000
+  },
+  {
+    "id": 3,
+    "caption": "Mazali hot dog",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/2/2016/07/24724.jpg?quality=90&resize=556,505",
+    "price": 17000
+  },
+  {
+    "id": 4,
+    "caption": "Katta pitsa",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2015/10/pizza-recipe-1-500x500.jpg",
+    "price": 56000
+  }
+]
